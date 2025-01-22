@@ -29,7 +29,7 @@ body{
 	text-align: center;
 	padding-bottom: 20px;
 	font-size: 22px;
-	color: #02164E;
+	color: #1b4a47;
 }
 
 
@@ -98,7 +98,7 @@ h3{
 }
 
 ol li::marker, ul li::marker {
-    color: #0071B9;
+    color: #1b4a47;
 	font-weight: bold;
 }
 
@@ -118,7 +118,7 @@ a:link, a:visited, a:active {
 }
 
 .titulin{
-	color:#021B6A;
+	color:#1b4a47;
 	font-size: 22px;
 	margin-top: 30px;
 }
@@ -133,7 +133,7 @@ a:link, a:visited, a:active {
 
 .tx-figura{
 	text-align: center;
-	color:#0071B9;
+	color:#1b4a47;
 	margin-top: 10px;
 }
 
