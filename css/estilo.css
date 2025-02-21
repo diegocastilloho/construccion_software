@@ -28,8 +28,8 @@ body{
 #inicio{
 	text-align: center;
 	padding-bottom: 20px;
-	font-size: 26px;
-	color: #005A2F;
+	font-size: 22px;
+	color: #1b4a47;
 }
 
 
@@ -65,27 +65,11 @@ p{
 	background: url("../imas/pleca.jpg");
 	background-size: auto 100%;
 	background-position: right;
-	background-color: #01592f;
+	background-color: #1b4a47;
 	background-repeat: no-repeat;
 	height: 50px;
 	color: white;
-	font-size: 25px;
-	font-weight: bold;
-}
-
-.pleca-temas{
-	background: url("../imas/pleca.jpg");
-	background-size: auto 100%;
-	background-position: right;
-	background-color: #01592f;
-	background-repeat: no-repeat;
-	height: auto;
-	color: white;
-	font-weight: bold;
-	white-space: normal;
-	word-wrap: break-word;
-	font-size: clamp(20px, 2vw, 25px);
-	padding: 12px;
+	font-size: 20px;
 }
 
 
@@ -107,21 +91,19 @@ p{
 	top: 0px;
 }
 
-h3{
-	color:#005A2F;
-	margin-top: 32px;
-}
 
-h4{
-	color:#005A2F;
+h3{
+	color:#1b4a47;
 	margin-top: 32px;
 }
 
 ol li::marker, ul li::marker {
-    color: #048A4A;
+    color: #1b4a47;
 	font-weight: bold;
 }
 
+
+ 
 a:link, a:visited, a:active {
     text-decoration:none;
 }
@@ -132,34 +114,34 @@ a:link, a:visited, a:active {
 }
 
 .bot-menu:hover{
-	color:#D9F3DB;
+	color:#00BAE0;
 }
 
 .titulin{
-	color:#005A2F;
-	font-size: 21px;
+	color:#1b4a47;
+	font-size: 22px;
 	margin-top: 30px;
 }
 
 #pleca_botones{
 	width: 100%;
 	padding: 10px;
-	background: linear-gradient(to right, rgb(0,90,47), rgb(0,134,70));
+	background: linear-gradient(to right, rgb(27,74,71), rgb(70,138,139));
 	position: fixed;
 	bottom:0px;
 }
 
 .tx-figura{
 	text-align: center;
-	color:#005A2F;
+	color:#1b4a47;
 	margin-top: 10px;
 }
 
 
 .actividad{
-	background: #D9F3DB;
-	border: dotted 2px #005A2F;
-	color: #005A2F;
+	background: #9ce0db;
+	border: dotted 2px #0071B9;
+	color: #1b4a47;
 	width: 100%;
 	max-width: 800px;
 	padding:20px;
@@ -167,22 +149,12 @@ a:link, a:visited, a:active {
 }
 
 hr{ 
-	 border: 1px solid #005A2F;
+	 border: 1px solid #0071B9;
 }
 
 
 .indice {
-	background: #D9F3DB;
+	background: #9ce0db;
 	padding: 20px;
-	color: #005A2F;
-}
-
-.sangria-francesa {
-	list-style: none;
-	padding-left: 20px; /* Ajusta el espacio del margen izquierdo  */
-	text-indent: -20px; /* Crea la sangria francesa*/
-}
-
-.glosario {
-	list-style: none;
+	color: #1b4a47;
 }
