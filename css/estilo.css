@@ -70,6 +70,23 @@ p{
 	height: 50px;
 	color: white;
 	font-size: 20px;
+	font-weight: bold;
+}
+
+
+.pleca-temas{
+	background: url("../imas/pleca.jpg");
+	background-size: auto 100%;
+	background-position: right;
+	background-color: #1b4a47;
+	background-repeat: no-repeat;
+	height: auto;
+	color: white;
+	font-weight: bold;
+	white-space: normal;
+	word-wrap: break-word;
+	font-size: clamp(20px, 2vw, 25px);
+	padding: 12px;
 }
 
 
